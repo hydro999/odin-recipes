@@ -1,1 +1,1 @@
-# odin-recipes
+This an attempt to build a barebone webpage and learn along with the odin project
